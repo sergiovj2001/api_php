@@ -15,4 +15,5 @@ define("DB_USER",$_ENV["DBUSER"]);
 define("DB_PASS",$_ENV["DBPASS"]);
 define("DB_NAME",$_ENV["DBNAME"]);
 define("DB_PORT",$_ENV["DBPORT"]);
+define("KEY",$_ENV["KEY"]);
 ?>
